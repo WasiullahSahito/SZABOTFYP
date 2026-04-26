@@ -1,6 +1,3 @@
-This is a professional and comprehensive `README.md` file tailored to your project’s current implementation and your FYP proposal.
-
----
 
 # SZABOT 🤖
 **The Intelligent AI Assistant for SZABIST Hyderabad Campus**

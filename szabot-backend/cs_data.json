@@ -1,0 +1,50 @@
+[
+  {
+    "category": "BSCS Roadmap - Semester 1",
+    "content": "First Year (Fall Semester): Calculus and Analytical Geometry, English Composition and Comprehension, Fundamentals of Programming (+Lab), Introduction to Computer Science (+Lab), Applied Physics (+Lab). Total 16 Cr.Hrs."
+  },
+  {
+    "category": "BSCS Roadmap - Semester 2",
+    "content": "First Year (Spring Semester): Object Oriented Programming Techniques (+Lab), Probability and Statistics, Digital Logic Design (+Lab), Islamic Studies/Humanities, Pakistan Studies, Communication and Presentation Skills. Total 17 Cr.Hrs."
+  },
+  {
+    "category": "BSCS Roadmap - Semester 3",
+    "content": "Second Year (Fall Semester): Data Structures and Algorithms (+Lab), CS Supporting-I, Discrete Mathematical Structures, Computer Organization and Assembly Language (+Lab), HCI & Computer Graphics (+Lab), University Elective-1. Total 18 Cr.Hrs."
+  },
+  {
+    "category": "BSCS Roadmap - Semester 4",
+    "content": "Second Year (Spring Semester): Database Systems (+Lab), Finite Automata Theory and Formal Languages, Linear Algebra, Design and Analysis of Algorithms, Computer Architecture, Ideology and Constitution of Pakistan. Total 18 Cr.Hrs."
+  },
+  {
+    "category": "BSCS Roadmap - Semester 5",
+    "content": "Third Year (Fall Semester): Operating Systems (+Lab), Compiler Construction, Software Engineering, Advance Database Management Systems (+Lab), Community Service, Entrepreneurship, Understanding of Holy Quran-I. Total 16 Cr.Hrs."
+  },
+  {
+    "category": "BSCS Roadmap - Semester 6",
+    "content": "Third Year (Spring Semester): Technical and Business Writing, Computer Networks (+Lab), Artificial Intelligence (+Lab), CS Elective-1, CS Elective-2, Understanding of Holy Quran-II. Total 16 Cr.Hrs."
+  },
+  {
+    "category": "BSCS Roadmap - Semester 7",
+    "content": "Fourth Year (Fall Semester): Final Year Project-I, CS Elective-3, CS Elective-4, University Elective-2, Information Security (+Lab), Professional Practices. Total 16 Cr.Hrs."
+  },
+  {
+    "category": "BSCS Roadmap - Semester 8",
+    "content": "Fourth Year (Spring Semester): Final Year Project-II, Parallel and Distributed Computing, CS Elective-5, CS Elective-6, CS Elective-7. Total 15 Cr.Hrs."
+  },
+  {
+    "category": "Admissions & Eligibility",
+    "content": "For BSCS, BSSE, and BSAI: Candidates need Intermediate (Pre-Engineering) or A-Levels with minimum 50% marks. Pre-Medical students can apply but must pass deficiency math courses (Algebraic Foundations & Calculus)."
+  },
+  {
+    "category": "Zabdesk Info",
+    "content": "ZABDESK is the academic portal for course registration, attendance, and grades. The official link for Hyderabad Campus is: https://fallzabdeskhyd.szabist.edu.pk/index.asp"
+  },
+  {
+    "category": "Faculty",
+    "content": "For the specific list of CS Faculty members, please visit: https://hyd.szabist.edu.pk/academics.html#faculty"
+  },
+  {
+    "category": "Fees",
+    "content": "For current fee structures, visit: https://hyd.szabist.edu.pk/admission.html#feeStructure"
+  }
+]

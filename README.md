@@ -21,7 +21,7 @@ SZABOT is a specialized AI-powered web assistant designed to solve the problem o
 
 ### Frontend
 *   **Framework:** React.js
-*   **Styling:** Tailwind CSS
+*   **Styling:** CSS
 *   **State Management:** React Hooks & Context API
 
 ### Backend
